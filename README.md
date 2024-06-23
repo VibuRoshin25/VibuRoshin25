@@ -18,7 +18,7 @@ An enthusiastic coder eager to expand my programming expertise and acquire pract
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=VibuRoshin25&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](./api.svg)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VibuRoshin25&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VibuRoshin25&theme=react&hide_border=false)
 
