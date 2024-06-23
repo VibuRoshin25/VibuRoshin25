@@ -20,7 +20,7 @@ An enthusiastic coder eager to expand my programming expertise and acquire pract
 
 ![](./profile-stats.svg)
 ![](./used-languages.svg)
-![](https://github-readme-streak-stats.herokuapp.com/?user=VibuRoshin25&theme=react&hide_border=false)
+![](./streaks.svg)
 
 ## 🏆 GitHub Trophies
 
