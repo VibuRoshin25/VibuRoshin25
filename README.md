@@ -19,7 +19,7 @@ An enthusiastic coder eager to expand my programming expertise and acquire pract
 # 📊 GitHub Stats:
 
 ![](./profile-stats.svg)
-![](./used-languages.svg)
+![](./used-languages.svg)<br/>
 ![](./streaks.svg)
 
 ## 🏆 GitHub Trophies
