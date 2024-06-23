@@ -16,6 +16,8 @@ An enthusiastic coder eager to expand my programming expertise and acquire pract
 ![](./used-languages.svg)<br/>
 ![](./streaks.svg)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=VibuRoshin25&theme=react&no-frame=true&no-bg=false&margin-w=4)
