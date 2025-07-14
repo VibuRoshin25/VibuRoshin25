@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on **Fin-Tech Applications**
-- 🌱 I’m currently learning **GoLang, AWS-CDK, TypeScript & SQLC**
+- 🌱 I’m currently learning **GoLang, AWS-CDK, Kubernetes & gRPC**
 - ⚡ I'm currently reading **The Secret History; 50 Strange and Astonishing Tales**
 
 <h3 align="left">I'm familiar with</h3>
