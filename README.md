@@ -66,8 +66,8 @@
     height="40"
   />
 <img
-    src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-    alt="gcp"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    alt="aws"
     width="40"
     height="40"
   />
