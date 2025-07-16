@@ -84,14 +84,14 @@
     height="40"
   />
 <img
-    src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
-    alt="Go Gin"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+    alt="postgres"
     width="40"
     height="40"
   />
 <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+    alt="redis"
     width="40"
     height="40"
   />
@@ -120,14 +120,14 @@
     height="40"
   />
 <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+    alt="docker"
     width="40"
     height="40"
   />
 <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-    alt="nginx"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"
+    alt="kubernetes"
     width="40"
     height="40"
   />
