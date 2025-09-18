@@ -3,14 +3,6 @@
   challenge.
 </h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=viburoshin25&column=4&no-bg=true"
-      alt="viburoshin25"
-  /></a>
-</p>
-
 - 🔭 I’m currently working on **Fin-Tech Applications**
 - 🌱 I’m currently learning **GoLang, AWS-CDK, Kubernetes & gRPC**
 - ⚡ I'm currently reading **The Secret History; 50 Strange and Astonishing Tales**
