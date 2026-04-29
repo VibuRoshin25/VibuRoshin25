@@ -1,152 +1,104 @@
-<h3 align="center">
-  A budding engineer helping craft reliable systems and growing through every
-  challenge.
-</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=240&section=header&text=Vibu%20Roshin%20E.V.&fontSize=58&fontColor=00d4ff&fontAlignY=42&desc=Backend%20and%20Platform%20Engineer&descAlignY=62&descColor=8b949e&descSize=20&animation=fadeIn" width="100%"/>
+</div>
 
-- 🔭 I’m currently working on **Fin-Tech Applications**
-- 🌱 I’m currently learning **GoLang, AWS-CDK, Kubernetes & gRPC**
-- ⚡ I'm currently reading **The Secret History; 50 Strange and Astonishing Tales**
+<div align="center">
 
-<h3 align="left">I'm familiar with</h3>
-<p align="left">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    alt="aws"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-    alt="bash"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-    alt="c"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-    alt="cplusplus"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-    alt="firebase"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="git"
-    width="40"
-    height="40"
-  />
-<img
-  src="https://camo.githubusercontent.com/045c3e8b67b93b2677f593f7962ad0b838cd0f8a764c9649e590c63771e6ddab/687474703a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f64616e63696e672d676f706865722e676966"
-    alt="go"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-    alt="postgres"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
-    alt="redis"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    alt="java"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="linux"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-    alt="mongodb"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-    alt="docker"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"
-    alt="kubernetes"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-    alt="postman"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python"
-    width="40"
-    height="40"
-  />
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-    alt="react"
-    width="40"
-    height="40"
-  />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viburoshinev)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VibuRoshin25)
+[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/viburoshinev)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/viburoshinev" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="viburoshinev"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://discord.gg/mcmdsmc" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt=""
-      height="30"
-      width="40"
-  /></a>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=520&lines=Building+reliable+distributed+systems;FinTech+%40+flipopay+technologies;Go+%7C+gRPC+%7C+Kubernetes+%7C+AWS" alt="Typing SVG"/>
+</div>
+
+<br/>
+
+---
+
+## ⚡ Status
+
+```
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  🏗  BUILDING  →  FinTech apps @ flipopay-technologies     │
+│  🌱  LEARNING  →  Go · AWS · Kubernetes · gRPC             │
+│  📖  READING   →  The Secret History & 50 Strange Tales    │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Backend & Frontend**
+
+![Gin-Gonic](https://img.shields.io/badge/Gin-Gonic?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![REST](https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Infrastructure & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 🧩 Vibrox — Microservice Suite
+
+> A production-grade, gRPC-connected microservice ecosystem for auth, user management, and structured logging.
+
+| Service | Role | Stack |
+|---------|------|-------|
+| [**vibrox-core**](https://github.com/VibuRoshin25/vibrox-core) | User management with RESTful APIs; integrates auth & logging via gRPC | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [**vibrox-auth**](https://github.com/VibuRoshin25/vibrox-auth) | JWT signing & verification microservice over gRPC — centralised token authority | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| [**vibrox-echo**](https://github.com/VibuRoshin25/vibrox-echo) | Structured logging microservice receiving log messages via gRPC | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [**vibrox-stack**](https://github.com/VibuRoshin25/vibrox-stack) | Orchestration: K8s manifests & Docker Compose for the full Vibrox suite | ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VibuRoshin25&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibuRoshin25&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VibuRoshin25&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=120&section=footer" width="100%"/>
+</div>
