@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=520&lines=Building+reliable+distributed+systems;FinTech+%40+flipopay+technologies;Go+%7C+gRPC+%7C+Kubernetes+%7C+AWS" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=520&lines=Building+reliable+distributed+systems;FinTech+Applications;Go+%7C+gRPC+%7C+Kubernetes+%7C+AWS" alt="Typing SVG"/>
 </div>
 
 <br/>
