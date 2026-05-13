@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=240&section=header&text=Vibu%20Roshin%20E%20V%20&fontSize=58&fontColor=00d4ff&fontAlignY=42&desc=Backend%20and%20Platform%20Engineer&descAlignY=62&descColor=8b949e&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d4a,100:0d1117&height=240&section=header&text=Vibu%20Roshin%20E%20V%20&fontSize=58&fontColor=00b4d8&fontAlignY=42&desc=Backend%20and%20Platform%20Engineer&descAlignY=62&descColor=8b949e&descSize=20&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=520&lines=Building+reliable+distributed+systems;FinTech+Applications;Go+%7C+gRPC+%7C+Kubernetes+%7C+AWS" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=520&lines=Building+reliable+distributed+systems;FinTech+Applications;Go+%7C+gRPC+%7C+Kubernetes+%7C+AWS" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -25,7 +25,7 @@
 │                                                            │
 │  🏗  BUILDING  →  FinTech apps @ flipopay-technologies     │
 │  🌱  LEARNING  →  Go · AWS · Kubernetes · gRPC             │
-│  📖  READING   →  The Secret History & 50 Strange Tales    │
+│  📖  READING   →  The Secret History & Mistborn    │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
@@ -88,17 +88,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VibuRoshin25&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibuRoshin25&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VibuRoshin25&theme=react-dark&hide_border=true&area=true&color=00b4d8&line=00b4d8&point=67e8f9&area_color=0a3d4a" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VibuRoshin25&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VibuRoshin25&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d4a,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
